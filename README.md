@@ -19,10 +19,11 @@ Run a digital product business on 100% autopilot. This system uses AI to generat
 
 No coding or terminal experience needed! Follow these steps:
 
-1.  **📥 Install Python:** Download and install Python from [python.org](https://www.python.org/downloads/) *(check the box that says **"Add Python to PATH"** during installation)*.
-2.  **⚙️ Run Installer:** Double-click the **`install.bat`** file. This sets up all dependencies.
-3.  **🔑 Add API Key:** Open the newly created **`.env`** file in Notepad, paste your `GEMINI_API_KEY`, and save.
-4.  **🚀 Launch System:** Double-click **`start.bat`**. You are live!
+1.  **📥 Download the Code:** Go to the top of this GitHub page, click the green **Code** button, and select **Download ZIP**. Extract (unzip) the downloaded folder onto your computer.
+2.  **🐍 Install Python:** Download and install Python from [python.org/downloads](https://www.python.org/downloads/) *(make sure to check the box **"Add Python to PATH"** during installation)*.
+3.  **⚙️ Run Installer:** Open your unzipped folder and double-click the file named **`install.bat`**. This will automatically set up the system.
+4.  **🔑 Add API Key:** Open the newly created **`.env`** file in Notepad, paste your `GEMINI_API_KEY`, and save.
+5.  **🚀 Launch System:** Double-click **`start.bat`**. You are live!
 
 ---
 
