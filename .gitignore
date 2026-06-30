@@ -1,0 +1,28 @@
+# Environment and virtual environments
+.env
+venv/
+.venv/
+env/
+
+# Python cache and build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Local databases and logs
+queue.db
+published_drafts.log
+
+# Private media and credentials
+videos/
+assets/temp_voiceover.mp3
+token.pickle
+client_secrets.json
+
+# IDE config and scratch scripts
+.vscode/
+.idea/
+.gemini/
+scratch/
