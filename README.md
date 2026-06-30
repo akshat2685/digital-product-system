@@ -31,6 +31,11 @@ No coding or terminal experience needed! Follow these steps:
 
 ### Setup
 ```bash
+# Clone the repository
+git clone https://github.com/akshat2685/digital-product-system.git
+cd digital-product-system
+
+# Create and activate virtual environment
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
