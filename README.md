@@ -40,11 +40,23 @@ An end-to-end autonomous pipeline designed to run a digital product business. It
 
 ## Installation & Setup
 
-### Prerequisites
+### 🚀 Easy 1-Click Quickstart (No-Code / Windows)
+If you are on Windows and want to avoid using the terminal/command line:
+1.  **Install Python:** Download and install Python from [python.org/downloads](https://www.python.org/downloads/) (make sure to check the box **"Add Python to PATH"** during installation).
+2.  **Run the Installer:** Double-click the file named **`install.bat`** in the project folder. This will automatically set up the virtual environment and install all required packages.
+3.  **Configure API Key:** Open the newly generated **`.env`** file in Notepad, paste your `GEMINI_API_KEY`, and save the file.
+4.  **Run Autopilot:** Double-click **`start.bat`**. This launches both the content scheduler and the webhook server instantly!
+
+---
+
+### 💻 Manual Technical Setup
+For developers or macOS/Linux users:
+
+#### Prerequisites
 *   Python 3.10+
 *   FFmpeg (required if compiling local video assets)
 
-### Step 1: Clone and Install Dependencies
+#### Step 1: Clone and Install Dependencies
 1. Initialize your project directory and activate your virtual environment:
    ```bash
    python -m venv venv
